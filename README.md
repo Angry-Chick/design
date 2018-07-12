@@ -1,2 +1,5 @@
 # design
-go design pattern
+
+该项目使用 go 语言实现了软件设计中的主要设计模式
+目前已经实现了：
+单例模式
